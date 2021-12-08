@@ -2,13 +2,8 @@
 <head>
 <meta charset="utf-8">
 <title>😍MEGHA </title>
-<style>
-body{
-background-color:DodgerBlue;
-}
-</style>
 </head>
-<body >
+<body style="background-color:DodgerBlue;">
 <table cellspacing="20" >
 <tr>
 <td><img src =" /home/stuti/Desktop/html/images.jpeg " alt ="My Image"></td>
